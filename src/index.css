@@ -12,15 +12,6 @@ html{
   background-color:rgb(255, 255, 255);
 }
 
-@font-face {
-  font-family: "Autography";
-  src: url("../fonts/autography/Autography.otf");
-  src: url("../fonts/autography/Autography.otf") format('opentype');
-
-}
-
-
-
 .header-container{
   display: flex;
   position: fixed;
