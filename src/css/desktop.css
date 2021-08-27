@@ -145,15 +145,6 @@ footer{
   font-weight: 600;
 }
 
-/* @media screen and (min-width: 1366px){
-  .header-container_shopping-cart{
-    display: flex;
-    float: right;
-    position: absolute;
-    right: 30px;
-    cursor: pointer;
-  }
-} */
 
 @media (min-width: 1366px){
   .header-container_shopping-cart{
@@ -163,7 +154,6 @@ footer{
     right: 50px;
     cursor: pointer;
   }
-  
   
   .header-container_img-responsive{
     width: 55px;

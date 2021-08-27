@@ -10,8 +10,6 @@
 
 html{
   background-color:rgb(255, 255, 255);
-  overflow-x: hidden;
-  margin: 0 auto;
 }
 
 .header-container{
@@ -51,7 +49,7 @@ html{
   display: flex;
   float: right;
   position: absolute;
-  right: 40px;
+  right: 38px;
   cursor: pointer;
 }
 
@@ -86,14 +84,10 @@ html{
   text-align: center;
 }
 
-/* .header-container_quantity-purchase:hover{
-  color: rgb(17, 0, 255);
-} */
-
 main{
   display: flex;
   flex-direction: column;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
   margin: 0 auto;
 }
 
@@ -104,24 +98,21 @@ main{
 }
 
 #app{
-  overflow-y: auto;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
   justify-content: center;
-  /* gap: 20px; */
   padding: 10px;
-  margin-top: 20px;
 }
 
 .card{
-  margin: 10px 10px 10px 10px;
   width: 320px;
   border: 2px solid rgba(237, 237, 248, 0.438);
   border-radius: 10px;
   padding: 10px;
   cursor: pointer;
+  margin: 20px 0px 0px 0px;
 }
 
 .card:hover{

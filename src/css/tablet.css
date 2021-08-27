@@ -37,21 +37,6 @@
   /* display: none; */
 }
 
-/* .header-container_shopping-cart{
-  display: flex;
-  float: right;
-  position: absolute;
-  right: 5px;
-  cursor: pointer;
-}
-
-.header-container_img-responsive{
-  width: 50px;
-  height: 50px;
-  transform: scaleX(-1);
-  position: relative;
-  top: 7px;
-} */
 .header-container_shopping-cart{
   display: flex;
   float: right;
@@ -91,15 +76,6 @@
   text-align: center;
 }
 
-
-/* .header-container_quantity-purchase{
-  position: relative;
-  right: 25px;
-  top: 5px;
-  font-weight: bold;
-  font-size: 1.4rem;
-} */
-
 .card{
   width: 320px;
   /* border: 2px solid rgba(237, 237, 248, 0.438); */
@@ -109,6 +85,8 @@
   background-color: rgba(0, 0, 0, 0.2);
   background-color: rgba(255, 255, 255, 0.61);
   cursor: pointer;
+  margin: 10px 10px 10px 10px;
+
 }
 
 .card:hover{
