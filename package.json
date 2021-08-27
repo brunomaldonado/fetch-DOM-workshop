@@ -1,5 +1,4 @@
 {
-  "homepage": "https://brunomaldonado.github.io/fetch-DOM-workshop",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
