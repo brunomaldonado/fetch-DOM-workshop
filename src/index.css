@@ -10,6 +10,8 @@
 
 html{
   background-color:rgb(255, 255, 255);
+  overflow-x: hidden;
+  margin: 0 auto;
 }
 
 .header-container{
@@ -49,7 +51,7 @@ html{
   display: flex;
   float: right;
   position: absolute;
-  right: 8px;
+  right: 40px;
   cursor: pointer;
 }
 
@@ -58,7 +60,7 @@ html{
   width: 45px;
   height: 45px;
   transform: scaleX(-1);
-  position: relative;
+  position: fixed;
   top: 5px;
  
 }
@@ -69,8 +71,8 @@ html{
   width: 15px;
   height: 15px;
   position: relative;
-  top: 5px;
-  right: 23px;
+  top: 3px;
+  left: 25px;
   text-align: center;
   color: aliceblue;
 }
@@ -91,6 +93,8 @@ html{
 main{
   display: flex;
   flex-direction: column;
+  /* overflow-x: hidden; */
+  margin: 0 auto;
 }
 
 .main-container h1{
