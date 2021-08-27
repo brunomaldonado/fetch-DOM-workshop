@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://brunomaldonado.io/fetch-DOM-workshop',
+    baseUrl: 'https://brunomaldonado.github.io/fetch-DOM-workshop',
   },
 }
