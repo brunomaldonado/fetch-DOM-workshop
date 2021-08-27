@@ -3,4 +3,4 @@
 ------------
 
 
-## First Workshop.
+## First Workshop. Avocado Store.
