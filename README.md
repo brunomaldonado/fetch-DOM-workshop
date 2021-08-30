@@ -5,7 +5,7 @@
 ## First Workshop. Avocado Store.
 
 <p align="center">
-  <img src="https://github.com/brunomaldonado/fetch-DOM-workshop/blob/main/gif/avocado.gif" width="320" height="auto" />
+  <img src="https://github.com/brunomaldonado/fetch-DOM-workshop/blob/main/gif/avocado.gif" width="375" height="auto" />
 </p>
 
 # Snowpack Tailwind
